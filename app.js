@@ -226,7 +226,7 @@ yargs.command({
     describe:'Read Notes',
     builder:{
         title:{
-            describe:'This is title of note to be added',
+            describe:'This is title of note to be added0',
             type:'string',
             demandOption:true
         }
